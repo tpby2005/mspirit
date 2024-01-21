@@ -28,7 +28,7 @@
 
 ### Usage
 
-`mspirit {YOUR_SINK_NAME}`
+`mspirit Combined.monitor`
 
 #### Controls
 
