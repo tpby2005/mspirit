@@ -35,6 +35,7 @@
 - `Escape` and `Q` to quit
 - Numbers `1`-`3` to switch visualizer mode
 - `Scroll Wheel` to change magnitude
+- `H` to hide magnitude
 
 
 ### License:
